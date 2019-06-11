@@ -44,7 +44,7 @@ DEPENDENCIES:
   - wpxmlrpc (= 0.8.4)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://cdn.jsdelivr.net/cocoa/:
     - Alamofire
     - CocoaLumberjack
     - FormatterKit
@@ -66,6 +66,6 @@ SPEC CHECKSUMS:
   WordPressShared: 7f3007a57331b4567c2c5bc539990818dd9a9965
   wpxmlrpc: 6ba55c773cfa27083ae4a2173e69b19f46da98e2
 
-PODFILE CHECKSUM: b9712dd8c2440cef21248d82e0878f6c786adf74
+PODFILE CHECKSUM: c0a44c5f0359327d41434b202c4f29bb07aaa7bc
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.7.1
